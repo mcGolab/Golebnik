@@ -1,0 +1,57 @@
+body
+{
+    background-color: aquamarine;
+}
+
+#pudelko
+{
+    height: 850pxpx;
+    width: 3000px;
+    padding: 20px;
+    display: grid;
+    
+}
+#logo
+{
+    background-color: #94ACD5;
+    text-align: center;
+    padding: 15px;
+    border-style: solid;
+    border-color: #778BAE;
+    border-width: 12px;
+}
+
+#nawigacja
+{
+    float: left;
+    background-color: #D59494;
+    width: 120px;
+    min-height: 620px;
+    padding: 10px;
+    border-style: solid;
+    border-color: #A26D6D;
+    border-width: 12px;
+}
+
+#kontent
+{
+    padding: 20px;
+    width: 799px; 
+    height: 600px;
+    background-color: #94B9D5;
+    text-align: center;
+    border-style: solid;
+    border-color: #7693A9;
+    border-width: 12px;
+}
+
+#stopa
+{
+    clear: both;
+    background-color: #94ACD5;
+    text-align: center;
+    padding: 20px;
+    border-style: solid;
+    border-color: #778BAE;
+    border-width: 12px;
+}
