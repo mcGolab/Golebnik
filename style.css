@@ -5,8 +5,8 @@ body
 
 #pudelko
 {
-    height: 850pxpx;
-    width: 3000px;
+    height: auto;
+    width: auto;
     padding: 20px;
     display: grid;
     
@@ -36,7 +36,7 @@ body
 #kontent
 {
     padding: 20px;
-    width: 799px; 
+    width: auto; 
     height: 600px;
     background-color: #94B9D5;
     text-align: center;
