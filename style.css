@@ -1,7 +1,7 @@
 body
 {
     background-color: aquamarine;
-    font-family: ARCADECLASSIC;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 #pudelko
@@ -55,4 +55,9 @@ body
     border-style: solid;
     border-color: #778BAE;
     border-width: 12px;
+}
+a
+{
+    color: black;
+    text-decoration: none;
 }
